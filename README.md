@@ -27,6 +27,7 @@ npm install @whiskeysockets/baileys
 
 ---
 
+```bash
 🛠️ Ejemplo básico de uso
 
 import makeWASocket from "@whiskeysockets/baileys"
